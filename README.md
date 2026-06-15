@@ -49,7 +49,7 @@ You will see the OEE table and the support verdicts in the console, and a full `
 - **MES scope** (work orders, tracking, genealogy, performance analysis): ISA-95 / MESA, the reference
   model for what a Manufacturing Execution System owns.
 
-## Honest limits
+## Limitations
 The shift is synthetic, so the figures are illustrative. This models the *core* of an MES (tracking,
 performance, genealogy, and a support-triage layer); it is not a full platform (no scheduling, no
 labor or inventory modules, no live equipment integration). The point is to show I understand what an
