@@ -52,5 +52,4 @@ You will see the OEE table and the support verdicts in the console, and a full `
 ## Limitations
 The shift is synthetic, so the figures are illustrative. This models the *core* of an MES (tracking,
 performance, genealogy, and a support-triage layer); it is not a full platform (no scheduling, no
-labor or inventory modules, no live equipment integration). The point is to show I understand what an
-MES does and can build and query it in C# and SQL.
+labor or inventory modules, no live equipment integration).
